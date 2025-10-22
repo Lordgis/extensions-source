@@ -19,7 +19,7 @@ import org.jsoup.select.Elements
 
 class TMOManga : ParsedHttpSource() {
 
-    override val baseUrl = "https://tmomanga.com"
+    override val baseUrl = "https://zonatmo.com/"
 
     override val lang = "es"
 
